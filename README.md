@@ -88,7 +88,7 @@ Sistema web para um **ateliê de cerâmica real**, criado para sair do caos de p
 
 ---
 
-### 🦆 [Purple Duck](https://github.com/Doccas-XVI/purple-duck)
+### 🦆 [Purple Duck](https://github.com/Doccas-XVI/Purple-Duck-Legacy-of-the-Ancient-Flock)
 Jogo **roguelike** feito em JavaScript puro com **Canvas API**, usando uma matriz 17×12 como mapa. Projeto acadêmico apresentado na faculdade.
 
 `JavaScript` `Canvas API` `HTML` `CSS`
