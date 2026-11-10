@@ -67,7 +67,7 @@ Antes de programar, passei quase **3 anos em suporte técnico e vendas** numa em
 
 ## 🚀 Projetos
 
-### 🎵 [NOIZ](https://github.com/Doccas-XVI/NOIZ)
+### 🎵 [https://github.com/Doccas-XVI/Projeto-NOIZ)
 Plataforma de **streaming de música full stack**, com identidade visual própria (verde-limão neon).
 - Autenticação com **JWT e rotação de refresh token**
 - Back-end organizado em camadas (repository/service) e busca em paralelo
